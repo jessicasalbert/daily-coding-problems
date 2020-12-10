@@ -1,6 +1,6 @@
 // Palindrome Number
 
-// O(n) time; O(1) space
+// O(n) time; O(n) space to store string/array
 
 
 // Solution 1 - convert to string 

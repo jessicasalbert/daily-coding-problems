@@ -1,3 +1,4 @@
+// Minimum array length that sums to n 
 // Sliding window - continue looking right until total >= num, then subtract from left side 
 // O(n) time; O(1) space
 
